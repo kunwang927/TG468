@@ -162,7 +162,7 @@ class CONFIG(object):
 #         self.epochs  = 1000
 #         self.hidden1 = 200  
 #         self.dropout = 0.0  
-#         self.early_stopping = 20 
+#         self.early_stopping = 10 
 #         self.seed0 = 184
 #         self.seed = 72                          
 #         self.size = 468
